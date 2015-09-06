@@ -1,6 +1,6 @@
 Steps to use these scripts:
 --------------------------
-1.Goto Mozilla Firefox(Google also works,buts usually google is not best in this case)
+1.Goto Mozilla Firefox                   (Google also works,buts usually google is not best in this case)
 2.Goto http://ozilla.org/en-US/firefox/addon/imacros-for-firefox and install the add-on
 3.Similarly in google store https://chrome.google.com/webstore/detail/imacros-for-chrome/cplklnmnlbnpmjogncfgfijoopmnlemp?hl=en
 4.Restart brower
